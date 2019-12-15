@@ -15,7 +15,13 @@
         "network": "Stackoverflow",
         "username": "gluehbirnenkopf",
         "url": "https://stackoverflow.com/users/9603310/leong",
-        "x_icon":"fab fa-2x fa-dev"
+        "x_icon":"fab fa-2x fa-stack-overflow"
+      },
+      {
+        "network": "GitHub",
+        "username": "gluehbirnenkopf",
+        "url": "https://github.com/gluehbirnenkopf",
+        "x_icon":"fab fa-2x fa-github-square"
       },
       {
         "network": "LinkedIn",
@@ -28,57 +34,57 @@
   "work": [
     {
       "company": "Deutsche Telekom",
-      "position": "DevOps Engineer for automated driving",
+      "position": "Cloud Platform Lead",
       "website": "https://www.bosch.hu",
       "startDate": "2019-10-15",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
+      "highlights": []
+    },
+    {
+      "company": "Bundesagentur für Arbeit",
+      "position": "Cloud Platform Developer",
+      "website": "https://www.bosch.hu",
+      "startDate": "2019-10-15",
+      "endDate": "",
+      "summary": "CI/CD Developer within a DC/OS Mesosphere Platform",
       "highlights": []
     },
     {
       "company": "European Central Bank",
-      "position": "DevOps Engineer",
+      "position": "Application Owner",
       "website": "https://www.pst.asseco.com",
       "startDate": "2018-04-01",
       "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "summary": "Functional and technical responsible for onboarding all CI and Services throughout the whole lifecycle (Plan, Design, Build, Test, Operate)",
       "highlights": []
     },
     {
       "company": "Media-Saturn",
-      "position": "Test",
+      "position": "DevOps Engineer",
       "website": "https://www.pst.asseco.com",
       "startDate": "2017-08-16",
       "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
+      "summary": "Enablement of functional departments to adopt DevOps best practices",
       "highlights": []
     },
     {
-      "company": "Test",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
+      "company": "WSV-Computer",
+      "position": "Apprentice IT Support Technician",
+      "website": "https://www.linkedin.com/company/wsv-computer/about/",
+      "startDate": "2011-08-01",
       "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Test",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "summary": "Worked for several Clients in a middle-class IT-Consultancy covering Unix/Windows Server Administration as well as VMWare and Cisco Products",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "AKAD StuttgarT",
-      "area": "Computer Engineering",
+      "institution": "AKAD Stuttgart",
+      "area": "Business Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "startDate": "2015-08-15",
+      "endDate": "2020-08-31",
       "courses": [
         "Object Oriented Programming",
         "Database Management Systems",
@@ -89,32 +95,32 @@
   ],
   "skills": [
     {
-      "name": "Jenkins",
-      "level": 90,
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Continuous Integration",
+      "name": "Unix",
       "level": 80,
       "keywords": ["DevOps"]
     },
     {
-      "name": "Scripting",
+      "name": "Continuous Integration/Delivery",
+      "level": 90,
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Container Platforms",
       "level": 95,
       "keywords": ["DevOps"]
     },
     {
-      "name": "Containers",
-      "level": 75,
+      "name": "Cloud",
+      "level": 85,
       "keywords": ["DevOps"]
     },
     {
-      "name": "Cloud",
+      "name": "Solution Architecture",
       "level": 60,
       "keywords": ["DevOps"]
     },
     {
-      "name": "Troubleshooting",
+      "name": "Microservices",
       "level": 95,
       "keywords": ["DevOps"]
     },
@@ -125,7 +131,7 @@
     },
     {
       "name": "Object Oriented Programming",
-      "level": 95,
+      "level": 75,
       "keywords": ["Software Developer"]
     },
     {
@@ -139,22 +145,22 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "REST API",
+      "name": "Jenkins",
       "level": 85,
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Unit Testing",
+      "name": "RedHat OpenShift",
       "level": 80,
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MySQL",
+      "name": "Kubernetes",
       "level": 60,
       "keywords": ["Software Developer"]
     },
     {
-      "name": "MongoDB",
+      "name": "Spring Boot",
       "level": 60,
       "keywords": ["Software Developer"]
     }
@@ -165,7 +171,7 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
+      "language": "German",
       "fluency": "Native speaker"
     }
   ],
@@ -175,16 +181,20 @@
       "x_icon": "fa-globe-africa"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
+      "name": "Classic Cars",
+      "x_icon": "fa-car"
     },
     {
       "name": "Foodie",
       "x_icon": "fa-utensils"
     },
     {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
+      "name": "Midfielder",
+      "x_icon": "fa-futbol"
+    },
+    {
+      "name": "3D Printing",
+      "x_icon": "fa-cubes"
     }
   ]
 }
