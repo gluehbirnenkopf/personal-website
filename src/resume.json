@@ -1,33 +1,33 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "DevOps Engineer",
-    "picture": "images/jcoelho.jpg",
+    "name": "Leon Gregori",
+    "label": "IT Architect",
+    "picture": "images/lg.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "summary": "Propagating Cloud and DevOps in international Teams",
     "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
+      "country": "Germany",
+      "countryCode": "GER",
+      "region": "Frankfurt"
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
+        "network": "Stackoverflow",
+        "username": "gluehbirnenkopf",
+        "url": "https://https://stackoverflow.com/users/9603310/leong",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "leongregori",
+        "url": "https://www.linkedin.com/in/leongregori",
         "x_icon": "fab fa-2x fa-linkedin"
       }
     ]
   },
   "work": [
     {
-      "company": "Bosch",
+      "company": "Deutsche Telekom",
       "position": "DevOps Engineer for automated driving",
       "website": "https://www.bosch.hu",
       "startDate": "2019-10-15",
@@ -36,7 +36,7 @@
       "highlights": []
     },
     {
-      "company": "Asseco PST",
+      "company": "European Central Bank",
       "position": "DevOps Engineer",
       "website": "https://www.pst.asseco.com",
       "startDate": "2018-04-01",
@@ -45,8 +45,8 @@
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
+      "company": "Media-Saturn",
+      "position": "Test",
       "website": "https://www.pst.asseco.com",
       "startDate": "2017-08-16",
       "endDate": "",
@@ -54,7 +54,7 @@
       "highlights": []
     },
     {
-      "company": "European GNSS Agency",
+      "company": "Test",
       "position": "IT Support Technician",
       "website": "https://www.gsa.europea.eu",
       "startDate": "2016-05-01",
@@ -63,7 +63,7 @@
       "highlights": []
     },
     {
-      "company": "Empresa de Electricidade da Madeira",
+      "company": "Test",
       "position": "IT Support Technician",
       "website": "https://www.eem.pt",
       "startDate": "2015-03-01",
@@ -74,7 +74,7 @@
   ],
   "education": [
     {
-      "institution": "University of Madeira",
+      "institution": "AKAD StuttgarT",
       "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2011-09-15",
