@@ -24,6 +24,12 @@
         "x_icon":"fab fa-2x fa-github-square"
       },
       {
+        "network": "GitHub",
+        "username": "gluehbirnenkopf",
+        "url": "https://github.com/gluehbirnenkopf",
+        "x_icon":"fab fa-2x fa-github-square"
+      },
+      {
         "network": "LinkedIn",
         "username": "leongregori",
         "url": "https://www.linkedin.com/in/leongregori",
