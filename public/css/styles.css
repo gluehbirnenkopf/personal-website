@@ -27,3 +27,8 @@ html {
     margin-right: auto;
     max-width: 36em;
 }
+
+.columns:not(.is-desktop) {
+    display:flex;
+    justify-content: center;
+}
