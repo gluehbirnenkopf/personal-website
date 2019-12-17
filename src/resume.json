@@ -24,10 +24,9 @@
         "x_icon":"fab fa-2x fa-github-square"
       },
       {
-        "network": "GitHub",
-        "username": "gluehbirnenkopf",
-        "url": "https://github.com/gluehbirnenkopf",
-        "x_icon":"fab fa-2x fa-github-square"
+        "network": "Mail",
+        "url": "mailto:mail@leongregori.com?subject=Hey Leon!&",
+        "x_icon":"fab fa-2x fa-envelope-open"
       },
       {
         "network": "LinkedIn",
@@ -54,7 +53,7 @@
       "startDate": "2019-10-15",
       "endDate": "",
       "summary": "CI/CD Developer within a DC/OS Mesosphere Platform",
-      "highlights": []
+      "highlights": ["bla","test"]
     },
     {
       "company": "European Central Bank",
