@@ -102,78 +102,82 @@
     {
       "name": "Unix",
       "level": 80,
-      "keywords": ["DevOps"]
+      "keywords": ["Tools"]
     },
     {
       "name": "Continuous Integration/Delivery",
       "level": 90,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Container Platforms",
-      "level": 95,
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
+      "name": "Multi-Cloud Architecture",
       "level": 85,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Solution Architecture",
+      "name": "Requirement Analysis",
       "level": 60,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
       "name": "Microservices",
-      "level": 95,
-      "keywords": ["DevOps"]
+      "level": 75,
+      "keywords": ["Methods"]
     },
     {
       "name": "Infrastructure as Code",
-      "level": 50,
-      "keywords": ["DevOps"]
+      "level": 85,
+      "keywords": ["Methods"]
     },
     {
       "name": "Object Oriented Programming",
       "level": 75,
-      "keywords": ["Software Developer"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Design Patterns",
+      "name": "GitOps",
       "level": 70,
-      "keywords": ["SoftSkill"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Git",
+      "name": "Groovy",
       "level": 75,
-      "keywords": ["Software Developer"]
+      "keywords": ["Tools"]
     },
     {
       "name": "Jenkins",
-      "level": 85,
-      "keywords": ["Software Developer"]
+      "level": 90,
+      "keywords": ["Tools"]
     },
     {
       "name": "RedHat OpenShift",
-      "level": 80,
-      "keywords": ["Software Developer"]
+      "level": 75,
+      "keywords": ["Tools"]
     },
     {
       "name": "Kubernetes",
-      "level": 60,
-      "keywords": ["Software Developer"]
+      "level": 85,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Helm",
+      "level": 80,
+      "keywords": ["Tools"]
     },
     {
       "name": "Spring Boot",
       "level": 60,
-      "keywords": ["Software Developer"]
+      "keywords": ["Tools"]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Entry Level"
     },
     {
       "language": "German",
@@ -190,7 +194,7 @@
       "x_icon": "fa-car"
     },
     {
-      "name": "Foodie",
+      "name": "Haute",
       "x_icon": "fa-utensils"
     },
     {
