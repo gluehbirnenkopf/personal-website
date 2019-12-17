@@ -38,7 +38,8 @@
   },
   "work": [
     {
-      "company": "Deutsche Telekom",
+      "company": "IBM",
+      "client" : "Deutsche Telekom"
       "position": "Cloud Platform Lead",
       "website": "https://www.bosch.hu",
       "startDate": "2019-10-15",
