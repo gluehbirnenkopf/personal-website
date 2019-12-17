@@ -1,3 +1,5 @@
-## jcoelho93 personal website
+## Leon Gregori CV app
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d32b64a2-9f48-4a26-b0d3-21cdf5548ec6/deploy-status)](https://app.netlify.com/sites/jcoelho93/deploys)
+The Java Script is build and deployed using netlify.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3847d3ad-538b-462d-b1c6-4112882d8c4c/deploy-status)](https://app.netlify.com/sites/stoic-jepsen-37d71d/deploys)
