@@ -32,3 +32,10 @@ html {
     display:flex;
     justify-content: center;
 }
+
+.subtitle.is-6 {
+    float: right;
+}
+.title:not(.is-spaced) + .subtitle {
+    margin-top: auto;
+}
