@@ -27,3 +27,15 @@ html {
     margin-right: auto;
     max-width: 36em;
 }
+
+.columns:not(.is-desktop) {
+    display:flex;
+    justify-content: center;
+}
+
+.subtitle.is-6 {
+    float: right;
+}
+.title:not(.is-spaced) + .subtitle {
+    margin-top: auto;
+}

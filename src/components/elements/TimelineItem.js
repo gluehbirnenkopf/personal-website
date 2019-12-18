@@ -7,8 +7,9 @@ function TimelineItem(props) {
         <img src="" alt="" />
       </div>
       <div className="timeline-content">
-        <p className="heading">{props.date}</p>
-        <h1 className="title is-4">{props.company}</h1>
+        <p className="heading">{props.startDate} - {props.endDate}</p>
+        <h1 className="title is-4">{props.client}</h1>
+        <h3 className="title is-5">{props.position} for {props.company}</h3>
         <p style={{maxWidth: '25em'}}>{props.summary}</p>
       </div>
     </div>

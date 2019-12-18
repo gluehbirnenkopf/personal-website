@@ -24,10 +24,9 @@
         "x_icon":"fab fa-2x fa-github-square"
       },
       {
-        "network": "GitHub",
-        "username": "gluehbirnenkopf",
-        "url": "https://github.com/gluehbirnenkopf",
-        "x_icon":"fab fa-2x fa-github-square"
+        "network": "Mail",
+        "url": "mailto:mail@leongregori.com?subject=Hey Leon!&",
+        "x_icon":"fas fa-envelope-open"
       },
       {
         "network": "LinkedIn",
@@ -39,38 +38,42 @@
   },
   "work": [
     {
-      "company": "Deutsche Telekom",
+      "company": "IBM",
+      "client" : "Deutsche Telekom",
       "position": "Cloud Platform Lead",
       "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "",
+      "startDate": "2018-05-15",
+      "endDate": "2020-12-30",
       "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
       "highlights": []
     },
     {
-      "company": "Bundesagentur für Arbeit",
+      "company": "Accenture",
+      "client": "Bundesagentur für Arbeit",
       "position": "Cloud Platform Developer",
       "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "",
+      "startDate": "2017-09-01",
+      "endDate": "2018-04-30",
       "summary": "CI/CD Developer within a DC/OS Mesosphere Platform",
-      "highlights": []
+      "highlights": ["bla","test"]
     },
     {
-      "company": "European Central Bank",
+      "company": "Accenture",
+      "client": "European Central Bank",
       "position": "Application Owner",
       "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
+      "startDate": "2016-06-01",
+      "endDate": "2018-08-30",
       "summary": "Functional and technical responsible for onboarding all CI and Services throughout the whole lifecycle (Plan, Design, Build, Test, Operate)",
       "highlights": []
     },
     {
-      "company": "Media-Saturn",
+      "company": "Accenture",
+      "client": "Media-Saturn",
       "position": "DevOps Engineer",
       "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
+      "startDate": "2014-12-15",
+      "endDate": "2016-05-31",
       "summary": "Enablement of functional departments to adopt DevOps best practices",
       "highlights": []
     },
@@ -79,7 +82,7 @@
       "position": "Apprentice IT Support Technician",
       "website": "https://www.linkedin.com/company/wsv-computer/about/",
       "startDate": "2011-08-01",
-      "endDate": "",
+      "endDate": "2014-07-30",
       "summary": "Worked for several Clients in a middle-class IT-Consultancy covering Unix/Windows Server Administration as well as VMWare and Cisco Products",
       "highlights": []
     }
@@ -103,78 +106,82 @@
     {
       "name": "Unix",
       "level": 80,
-      "keywords": ["DevOps"]
+      "keywords": ["Tools"]
     },
     {
       "name": "Continuous Integration/Delivery",
       "level": 90,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Container Platforms",
-      "level": 95,
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Cloud",
+      "name": "Multi-Cloud Architecture",
       "level": 85,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Solution Architecture",
+      "name": "Requirement Analysis",
       "level": 60,
-      "keywords": ["DevOps"]
+      "keywords": ["Methods"]
     },
     {
       "name": "Microservices",
-      "level": 95,
-      "keywords": ["DevOps"]
+      "level": 75,
+      "keywords": ["Methods"]
     },
     {
       "name": "Infrastructure as Code",
-      "level": 50,
-      "keywords": ["DevOps"]
+      "level": 85,
+      "keywords": ["Methods"]
     },
     {
       "name": "Object Oriented Programming",
       "level": 75,
-      "keywords": ["Software Developer"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Design Patterns",
+      "name": "GitOps",
       "level": 70,
-      "keywords": ["Software Developer"]
+      "keywords": ["Methods"]
     },
     {
-      "name": "Git",
+      "name": "Groovy",
       "level": 75,
-      "keywords": ["Software Developer"]
+      "keywords": ["Tools"]
     },
     {
       "name": "Jenkins",
-      "level": 85,
-      "keywords": ["Software Developer"]
+      "level": 90,
+      "keywords": ["Tools"]
     },
     {
       "name": "RedHat OpenShift",
-      "level": 80,
-      "keywords": ["Software Developer"]
+      "level": 75,
+      "keywords": ["Tools"]
     },
     {
       "name": "Kubernetes",
-      "level": 60,
-      "keywords": ["Software Developer"]
+      "level": 85,
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Helm",
+      "level": 80,
+      "keywords": ["Tools"]
     },
     {
       "name": "Spring Boot",
       "level": 60,
-      "keywords": ["Software Developer"]
+      "keywords": ["Tools"]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Entry Level"
     },
     {
       "language": "German",
@@ -191,7 +198,7 @@
       "x_icon": "fa-car"
     },
     {
-      "name": "Foodie",
+      "name": "Haute",
       "x_icon": "fa-utensils"
     },
     {

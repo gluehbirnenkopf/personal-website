@@ -19,10 +19,13 @@ function Timeline() {
                                     <span className="tag is-success">{year}</span>
                                    </header>)
                     content.push(Resume.work.filter(work => new Date(work.startDate).getFullYear() === year).map((item, index) => {
-                            return <TimelineItem 
+                            return <TimelineItem
                                         key = {index}
-                                        date = {new Date(item.startDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
+                                        startDate = {new Date(item.startDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
+                                        endDate = {new Date(item.endDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
                                         company = {item.company}
+                                        client = {item.client}
+                                        position = {item.position}
                                         summary = {item.summary}
                                     />
                         }))
