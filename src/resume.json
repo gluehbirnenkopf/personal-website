@@ -42,17 +42,18 @@
       "client" : "Deutsche Telekom",
       "position": "Cloud Platform Lead",
       "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "startDate": "2018-05-15",
       "endDate": "",
       "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
       "highlights": []
     },
     {
-      "company": "Bundesagentur für Arbeit",
+      "company": "IBM",
+      "client": "Bundesagentur für Arbeit",
       "position": "Cloud Platform Developer",
       "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "",
+      "startDate": "2017-08-01",
+      "endDate": "2018-04-31",
       "summary": "CI/CD Developer within a DC/OS Mesosphere Platform",
       "highlights": ["bla","test"]
     },
