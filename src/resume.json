@@ -43,17 +43,17 @@
       "position": "Cloud Platform Lead",
       "website": "https://www.bosch.hu",
       "startDate": "2018-05-15",
-      "endDate": "2020-12-31",
+      "endDate": "2020-12-30",
       "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
       "highlights": []
     },
     {
-      "company": "IBM",
+      "company": "Accenture",
       "client": "Bundesagentur für Arbeit",
       "position": "Cloud Platform Developer",
       "website": "https://www.bosch.hu",
       "startDate": "2017-09-01",
-      "endDate": "2018-04-31",
+      "endDate": "2018-04-30",
       "summary": "CI/CD Developer within a DC/OS Mesosphere Platform",
       "highlights": ["bla","test"]
     },
@@ -71,7 +71,7 @@
       "position": "DevOps Engineer",
       "website": "https://www.pst.asseco.com",
       "startDate": "2014-12-15",
-      "endDate": "",
+      "endDate": "2016-05-31",
       "summary": "Enablement of functional departments to adopt DevOps best practices",
       "highlights": []
     },
