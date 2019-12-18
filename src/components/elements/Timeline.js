@@ -21,7 +21,7 @@ function Timeline() {
                     content.push(Resume.work.filter(work => new Date(work.startDate).getFullYear() === year).map((item, index) => {
                             return <TimelineItem
                                         key = {index}
-                                        date = {new Date(item.startDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
+                                        date = {new Date(item.startDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}+ "-" +{new Date(item.endDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
                                         company = {item.company}
                                         client = {item.client}
                                         summary = {item.summary}
