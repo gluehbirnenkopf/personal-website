@@ -4,7 +4,7 @@
     "label": "IT Architect",
     "picture": "images/lg.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Propagating Cloud and DevOps in international Teams",
+    "summary": "Leading international Teams to deliver Cloud and DevOps processes & technologies",
     "location": {
       "country": "Germany",
       "countryCode": "GER",
@@ -38,18 +38,28 @@
   },
   "work": [
     {
-      "company": "IBM",
-      "client" : "Deutsche Telekom",
-      "position": "Cloud Platform Lead",
-      "website": "https://www.bosch.hu",
+      "company": "Accenture",
+      "client" : "Major German Bank",
+      "position": "Cloud Migration Architect",
+      "website": "https://www.test.de",
       "startDate": "2018-05-15",
-      "endDate": "2020-12-30",
+      "endDate": "2020-03-31",
+      "summary": "Migrating and modernizing 80% of IT infrastructure and applications of the bank, including core-banking systems.",
+      "highlights": []
+    },
+    {
+      "company": "IBM Global Business Services,
+      "client" : "Leading German Telecom Provider",
+      "position": "Cloud Platform Lead",
+      "website": "https://www.test.de",
+      "startDate": "2018-05-15",
+      "endDate": "2020-03-31",
       "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
       "highlights": []
     },
     {
       "company": "Accenture",
-      "client": "Bundesagentur für Arbeit",
+      "client": "German Public Institution",
       "position": "Cloud Platform Developer",
       "website": "https://www.bosch.hu",
       "startDate": "2017-09-01",
@@ -59,7 +69,7 @@
     },
     {
       "company": "Accenture",
-      "client": "European Central Bank",
+      "client": "Public European Central Financial Institution",
       "position": "Application Owner",
       "website": "https://www.pst.asseco.com",
       "startDate": "2016-06-01",
@@ -69,7 +79,7 @@
     },
     {
       "company": "Accenture",
-      "client": "Media-Saturn",
+      "client": "Largest European Retailer",
       "position": "DevOps Engineer",
       "website": "https://www.pst.asseco.com",
       "startDate": "2014-12-15",
@@ -78,8 +88,8 @@
       "highlights": []
     },
     {
-      "company": "WSV-Computer",
-      "position": "Apprentice IT Support Technician",
+      "company": "middle-class IT-Consultanting Company",
+      "position": "IT Support Technician",
       "website": "https://www.linkedin.com/company/wsv-computer/about/",
       "startDate": "2011-08-01",
       "endDate": "2014-07-30",
@@ -93,7 +103,7 @@
       "area": "Business Information Technology",
       "studyType": "Bachelor",
       "startDate": "2015-08-15",
-      "endDate": "2020-08-31",
+      "endDate": "2021-08-31",
       "courses": [
         "Object Oriented Programming",
         "Database Management Systems",
@@ -114,7 +124,7 @@
       "keywords": ["Methods"]
     },
     {
-      "name": "Multi-Cloud Architecture",
+      "name": "Multi-Cloud Strategy",
       "level": 85,
       "keywords": ["Methods"]
     },
@@ -124,7 +134,7 @@
       "keywords": ["Methods"]
     },
     {
-      "name": "Microservices",
+      "name": "Microservice Architecture",
       "level": 75,
       "keywords": ["Methods"]
     },
