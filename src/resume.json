@@ -38,6 +38,7 @@
   },
   "work": [
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client" : "Major German Bank",
       "position": "Cloud Migration Architect",
@@ -48,6 +49,7 @@
       "highlights": []
     },
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "IBM Global Business Services",
       "client" : "Leading German Telecom Provider",
       "position": "Cloud Platform Lead",
@@ -58,6 +60,7 @@
       "highlights": []
     },
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client": "Public European Central Financial Institution",
       "position": "Application Owner",
@@ -68,6 +71,7 @@
       "highlights": []
     },
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client": "Largest European Retailer",
       "position": "DevOps Engineer",
@@ -78,6 +82,7 @@
       "highlights": []
     },
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "middle-class IT-Consultanting Company",
       "position": "IT Support Technician",
       "website": "https://www.linkedin.com/company/wsv-computer/about/",
@@ -89,6 +94,7 @@
   ],
   "education": [
     {
+      "image": "https://www.w3schools.com/images/lamp.jpg",
       "institution": "AKAD Stuttgart",
       "area": "Business Information Technology",
       "studyType": "Bachelor",
