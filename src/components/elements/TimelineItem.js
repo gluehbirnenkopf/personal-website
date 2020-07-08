@@ -4,7 +4,7 @@ function TimelineItem(props) {
   return (
     <div className="timeline-item is-success">
       <div className="timeline-marker is-image is-32x32">
-        <img src="" alt="" />
+        <img src={props.image} alt="" />
       </div>
       <div className="timeline-content">
         <p className="heading">{props.startDate} - {props.endDate}</p>
