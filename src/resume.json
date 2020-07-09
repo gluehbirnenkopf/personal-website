@@ -51,7 +51,7 @@
     {
       "image": "https://pbs.twimg.com/profile_images/1063466206466838528/zM35Ye2e_400x400.jpg",
       "company": "IBM Global Business Services",
-      "client" : "Leading German Telecom Provider",
+      "client" : "Deutsche Telekom",
       "position": "Cloud Platform Lead",
       "website": "https://www.ibm.de",
       "startDate": "2018-05-15",
@@ -60,9 +60,9 @@
       "highlights": []
     },
     {
-      "image": "https://www.w3schools.com/images/lamp.jpg",
+      "image": "https://ibsintelligence.com/wp-content/uploads/2019/08/ecb.jpg",
       "company": "Accenture",
-      "client": "Public European Central Financial Institution",
+      "client": "European Central Bank",
       "position": "Application Owner",
       "website": "https://www.accenture.com",
       "startDate": "2016-06-01",
@@ -71,7 +71,7 @@
       "highlights": []
     },
     {
-      "image": "https://www.w3schools.com/images/lamp.jpg",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJg1WmbU5OKQ/company-logo_200_200/0?e=2159024400&v=beta&t=W1XJDeOOwgbyWZ5blJmPZaekFzcJxT8WodfYh_0TTi4",
       "company": "Accenture",
       "client": "Largest European Retailer",
       "position": "DevOps Engineer",
@@ -82,8 +82,8 @@
       "highlights": []
     },
     {
-      "image": "https://www.w3schools.com/images/lamp.jpg",
-      "company": "middle-class IT-Consultanting Company",
+      "image": "https://it-service.network/wp/30996/logo.jpg",
+      "company": "WSV-Computer Bad Camberg",
       "position": "IT Support Technician",
       "website": "https://www.linkedin.com/company/wsv-computer/about/",
       "startDate": "2011-08-01",
@@ -94,7 +94,7 @@
   ],
   "education": [
     {
-      "image": "https://www.w3schools.com/images/lamp.jpg",
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
       "institution": "AKAD Stuttgart",
       "area": "Business Information Technology",
       "studyType": "Bachelor",
@@ -106,7 +106,21 @@
         "Operating systems and computers architectures",
         "Requirements Engineering"
       ]
-    }
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/T6IAeeMEkr4DeFcCCPxRLJ1U13A3UzhNbydfVFid-y1NXT5c7Rwzd_mrlxOLmwkcDr3A4YFRhMx4txd4NmJhd8L8tIRluB3Iyg",
+      "institution": "California State University, Sacramento",
+      "area": "International Management",
+      "studyType": "Summer School",
+      "startDate": "2017-10-16",
+      "endDate": "2021-11-15",
+      "courses": [
+        "Public Speaking",
+        "Intercultural Competence",
+        "Cambridge C1",
+        "Project Management"
+      ]
+    },
   ],
   "skills": [
     {
