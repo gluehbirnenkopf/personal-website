@@ -25,6 +25,7 @@ function Timeline() {
                                         endDate = {new Date(item.endDate).toLocaleString('en-UK', {month:'long', year: 'numeric'})}
                                         company = {item.company}
                                         client = {item.client}
+                                        image =  {item.image}                                                      
                                         position = {item.position}
                                         summary = {item.summary}
                                     />
