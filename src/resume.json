@@ -38,7 +38,6 @@
   },
   "work": [
     {
-      "test": "test",
       "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client" : "Major German Bank",
@@ -50,7 +49,6 @@
       "highlights": []
     },
     {
-      "test": "test",
       "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "IBM Global Business Services",
       "client" : "Leading German Telecom Provider",
@@ -62,7 +60,6 @@
       "highlights": []
     },
     {
-      "test": "test",
       "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client": "Public European Central Financial Institution",
@@ -74,7 +71,6 @@
       "highlights": []
     },
     {
-      "test": "test",
       "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "Accenture",
       "client": "Largest European Retailer",
@@ -86,7 +82,6 @@
       "highlights": []
     },
     {
-      "test": "test",
       "image": "https://www.w3schools.com/images/lamp.jpg",
       "company": "middle-class IT-Consultanting Company",
       "position": "IT Support Technician",
