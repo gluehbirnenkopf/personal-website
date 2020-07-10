@@ -108,6 +108,35 @@
       "area": "International Management",
       "studyType": "Summer School",
       "startDate": "2017-10-16",
+      "endDate": "2017-11-15",
+      "courses": "Public Speaking, Intercultural Competence, Cambridge C1, Project Management"
+    }
+  ],
+  "certifications": [
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "RedHat Inc.",
+      "area": "RedHat Certified specialist for Container Development on Openshift",
+      "studyType": "EX288",
+      "startDate": "2015-08-15",
+      "endDate": "2021-08-31",
+      "courses": "Object Oriented Programming, Database Management Systems, Operating systems and computers architectures, Requirements Engineering"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "VMWare Inc.",
+      "area": "VMware Technical Pre-Sales Professional VSphere 5",
+      "studyType": "EX288",
+      "startDate": "2013-08-15",
+      "endDate": "2013-08-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/200x200/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559d6d72e4b05c2c3431c087%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
+      "institution": "IBM",
+      "area": "International Management",
+      "studyType": "Summer School",
+      "startDate": "2017-10-16",
       "endDate": "2021-11-15",
       "courses": "Public Speaking, Intercultural Competence, Cambridge C1, Project Management"
     }
