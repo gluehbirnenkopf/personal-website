@@ -1,5 +1,5 @@
 import React from "react"
-import EcucationTimelineItem from "./EducationTimelineItem"
+import EducationTimelineItem from "./EducationTimelineItem"
 import Resume from "../../resume.json"
 
 function EducationTimeline() {
