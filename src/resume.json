@@ -100,26 +100,16 @@
       "studyType": "Bachelor",
       "startDate": "2015-08-15",
       "endDate": "2021-08-31",
-      "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
-      ]
+      "courses": "Object Oriented Programming, Database Management Systems, Operating systems and computers architectures, Requirements Engineering"
     },
     {
-      "image": "https://lh3.googleusercontent.com/proxy/T6IAeeMEkr4DeFcCCPxRLJ1U13A3UzhNbydfVFid-y1NXT5c7Rwzd_mrlxOLmwkcDr3A4YFRhMx4txd4NmJhd8L8tIRluB3Iyg",
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/200x200/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559d6d72e4b05c2c3431c087%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
       "institution": "California State University, Sacramento",
       "area": "International Management",
       "studyType": "Summer School",
       "startDate": "2017-10-16",
       "endDate": "2021-11-15",
-      "courses": [
-        "Public Speaking",
-        "Intercultural Competence",
-        "Cambridge C1",
-        "Project Management"
-      ]
+      "courses": "Public Speaking, Intercultural Competence, Cambridge C1, Project Management"
     }
   ],
   "skills": [
