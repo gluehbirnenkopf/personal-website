@@ -16,4 +16,4 @@ function EducationTimelineItem(props) {
   );
 }
 
-export default TimelineItem
+export default EducationTimelineItem
