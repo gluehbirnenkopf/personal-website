@@ -10,19 +10,13 @@ function Education() {
                 <div className="columns">
                     <div className="column is-6">
                         <div className="has-text-centered">
-                            <span className="icon has-text-link">
-                                <i className="fas fa-3x fa-cogs"></i>
-                            </span>
-                            <h2 className="title is-5">Professional Education</h2>
+                            <h2 className="title is-5">School & University</h2>
                         </div>
                         <Timeline/>
                     </div>
                     <div className="column is-6">
                         <div className="has-text-centered">
-                            <span className="icon has-text-link">
-                                <i className="fas fa-3x fa-laptop-code"></i>
-                            </span>
-                            <h2 className="title is-5">Education</h2>
+                            <h2 className="title is-5">Certifications</h2>
                         </div>
                         <Timeline/>
                     </div>
