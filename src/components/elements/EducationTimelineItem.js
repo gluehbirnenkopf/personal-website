@@ -2,8 +2,8 @@ import React from "react";
 
 function EducationTimelineItem(props) {
   return (
-    <div className="education-timeline-item is-success">
-      <div className="education-timeline-marker is-image is-32x32">
+    <div className="timeline-item is-success">
+      <div className="timeline-marker is-image is-32x32">
         <img src={props.image} alt="" />
       </div>
       <div className="timeline-content">
