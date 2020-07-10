@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Leon Gregori",
-    "label": "IT Architect",
+    "label": "Senior Consultant - Cloud Native Engineering",
     "picture": "images/lg.jpg",
     "x_title": "Hey There! Glad you're here",
     "summary": "Leading international Teams to deliver Cloud and DevOps processes & technologies",
@@ -132,13 +132,76 @@
       "courses": "VSphere 5 Technical Deep Dive"
     },
     {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": " Hasso Plattner Institute (OpenHPI)",
+      "area": "Web Technologies",
+      "studyType": "EX288",
+      "startDate": "2013-04-15",
+      "endDate": "2013-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Master",
+      "studyType": "PSM I",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Product Owner",
+      "studyType": "PSPO I",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "Serview",
+      "area": "ITIL V3 Foundation 2011",
+      "studyType": "ITIL V3",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "Cambridge Language Institute",
+      "area": "English Proficiency",
+      "studyType": "Cambridge C1",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "AXELOS",
+      "area": "Project Management",
+      "studyType": "PRINCE2",
+      "startDate": "2016-08-15",
+      "endDate": "2016-08-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "IBM",
+      "area": "Microservices and istio on Kubernetes",
+      "studyType": "IBM Cloud",
+      "startDate": "2019-04-15",
+      "endDate": "2019-04-31",
+      "courses": "VSphere 5 Technical Deep Dive"
+    },
+    {
       "image": "https://thumbor.forbes.com/thumbor/fit-in/200x200/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559d6d72e4b05c2c3431c087%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
       "institution": "IBM",
-      "area": "International Management",
-      "studyType": "Summer School",
-      "startDate": "2017-10-16",
-      "endDate": "2021-11-15",
-      "courses": "Public Speaking, Intercultural Competence, Cambridge C1, Project Management"
+      "area": "Kubernetes on IBM Cloud Certified",
+      "studyType": "IBM Cloud",
+      "startDate": "2019-10-16",
+      "endDate": "2019-11-15",
+      "courses": "IBM Kubernetes Service Technical Deep Dive"
     }
   ],
   "skills": [
