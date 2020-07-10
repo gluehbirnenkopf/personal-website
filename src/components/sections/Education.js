@@ -19,7 +19,7 @@ function Education() {
                         <div className="has-text-centered">
                             <h2 className="title is-5">Certifications</h2>
                         </div>
-                        <CertificationsTimeline/>
+                        <CertificationTimeline/>
                     </div>
                 </div>
             </div>
