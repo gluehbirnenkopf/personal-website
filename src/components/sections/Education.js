@@ -1,6 +1,7 @@
 import React from "react"
 
 import Timeline from "../elements/EducationTimeline"
+import CertificationTimeline from "../elements/CertificationTimeline"
 
 function Education() {
     return(
@@ -18,7 +19,7 @@ function Education() {
                         <div className="has-text-centered">
                             <h2 className="title is-5">Certifications</h2>
                         </div>
-                        <Timeline/>
+                        <CertificationsTimeline/>
                     </div>
                 </div>
             </div>
