@@ -1,5 +1,5 @@
 import React from "react"
-import TimelineItem from "./EducationTimelineItem"
+import EcucationTimelineItem from "./EducationTimelineItem"
 import Resume from "../../resume.json"
 
 function EducationTimeline() {
@@ -37,4 +37,4 @@ function EducationTimeline() {
     )
 }
 
-export default Timeline
+export default EducationTimeline
