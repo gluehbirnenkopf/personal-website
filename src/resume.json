@@ -125,20 +125,11 @@
     {
       "image": "",
       "institution": "scrum.org",
-      "area": "Professional Scrum Master",
-      "studyType": "PSM I",
-      "startDate": "2016-06-15",
-      "endDate": "2016-06-31",
-      "courses": "Professional Scrum Master Course"
-    },
-    {
-      "image": "",
-      "institution": "scrum.org",
-      "area": "Professional Scrum Product Owner",
-      "studyType": "PSPO I",
+      "area": "Professional Scrum Product Owner & Professional Scrum Master",
+      "studyType": "PSPO I and PSM I",
       "startDate": "2016-03-15",
       "endDate": "2016-03-31",
-      "courses": "Professional Scrum Product Owner Course"
+      "courses": "Professional Scrum Product Owner Course including also Scrum Master"
     },
     {
       "image": "",
