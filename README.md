@@ -26,11 +26,9 @@ You can also test the app with a development server, just run:
 npm start
 ```
 
-A PDF can be created based on pdf/index.js settings
+A can be created based on pdf/index.js settings
 ```bash
-npm init -y
-npm install --save puppeteer@2.0.0
-nohup npm start & sleep 10 && node pdf.js   
+nohup npm start & sleep 10 && node pdf/pdf.js 
 ```
 ## License
 MIT
