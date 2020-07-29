@@ -120,7 +120,7 @@
       "studyType": "EX288",
       "startDate": "2015-08-15",
       "endDate": "2021-08-31",
-      "courses": "Object Oriented Programming, Database Management Systems, Operating systems and computers architectures, Requirements Engineering"
+      "courses": "Unix, CD/CD, Bash, Cloud Technologies"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -129,7 +129,7 @@
       "studyType": "EX288",
       "startDate": "2013-08-15",
       "endDate": "2013-08-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "VMware Technical Pre-Sales Professional VSphere 5"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -138,7 +138,7 @@
       "studyType": "EX288",
       "startDate": "2013-02-15",
       "endDate": "2013-02-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Web Technologies"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -147,7 +147,7 @@
       "studyType": "PSM I",
       "startDate": "2016-03-15",
       "endDate": "2016-03-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Professional Scrum Master"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -156,7 +156,7 @@
       "studyType": "PSPO I",
       "startDate": "2016-06-15",
       "endDate": "2016-06-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Professional Scrum Product Owner"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -165,7 +165,7 @@
       "studyType": "ITIL V3",
       "startDate": "2016-06-15",
       "endDate": "2016-06-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "ITIL V3 Foundation 2011"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -174,7 +174,7 @@
       "studyType": "Cambridge C1",
       "startDate": "2016-05-15",
       "endDate": "2016-05-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Cambridge C1"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -183,7 +183,7 @@
       "studyType": "PRINCE2",
       "startDate": "2016-08-15",
       "endDate": "2016-08-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Project Management"
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
@@ -192,7 +192,7 @@
       "studyType": "IBM Cloud",
       "startDate": "2019-04-15",
       "endDate": "2019-04-31",
-      "courses": "VSphere 5 Technical Deep Dive"
+      "courses": "Microservices and istio on Kubernetes"
     },
     {
       "image": "https://thumbor.forbes.com/thumbor/fit-in/200x200/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559d6d72e4b05c2c3431c087%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
