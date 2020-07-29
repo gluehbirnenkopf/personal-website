@@ -130,15 +130,6 @@
       "startDate": "2017-10-15",
       "endDate": "2017-11-15",
       "courses": "Cambridge C1"
-    },
-    {
-      "image": "",
-      "institution": "IBM",
-      "area": "Microservices and istio on Kubernetes",
-      "studyType": "IBM Cloud",
-      "startDate": "2019-04-15",
-      "endDate": "2019-04-31",
-      "courses": "Setting up istio on IKS (IBM Kubernetes Service), Distributed Tracing, Principles of Istio"
     }
   ],
   "skills": [
