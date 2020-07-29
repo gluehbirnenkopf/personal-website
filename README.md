@@ -28,7 +28,9 @@ npm start
 
 A PDF can be created based on pdf/index.js settings
 ```bash
-nohup npm start & sleep 10 && node pdf/index.js   
+npm init -y
+npm install --save puppeteer@2.0.0
+nohup npm start & sleep 10 && node pdf.js   
 ```
 ## License
 MIT
