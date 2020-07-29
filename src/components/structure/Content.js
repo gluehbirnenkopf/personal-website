@@ -14,7 +14,7 @@ function Content() {
             <Experience />
             <Education />
             <Certifications />
-            <Articles />
+            //<Articles />
         </main>
     )
 }
