@@ -198,17 +198,17 @@
     },
     {
       "name": "Jenkins",
-      "level": 90,
+      "level": 99,
       "keywords": ["Tools"]
     },
     {
       "name": "RedHat OpenShift",
-      "level": 75,
+      "level": 85,
       "keywords": ["Tools"]
     },
     {
       "name": "Kubernetes",
-      "level": 85,
+      "level": 90,
       "keywords": ["Tools"]
     },
     {
