@@ -116,11 +116,29 @@
     {
       "image": "",
       "institution": "IBM",
+      "area": "Kubernetes on IBM Cloud Certified",
+      "studyType": "IBM Cloud",
+      "startDate": "2019-10-16",
+      "endDate": "2019-11-15",
+      "courses": "IBM Kubernetes Service Technical Deep Dive, Deployments, Configuration, Operators"
+    },
+    {
+      "image": "",
+      "institution": "IBM",
       "area": "Microservices and istio on Kubernetes",
       "studyType": "IBM Cloud",
       "startDate": "2019-04-15",
       "endDate": "2019-04-31",
       "courses": "Setting up istio on IKS (IBM Kubernetes Service), Distributed Tracing, Principles of Istio"
+    },
+    {
+      "image": "",
+      "institution": "Cambridge Language Institute",
+      "area": "Highest English Proficiency",
+      "studyType": "Cambridge C1",
+      "startDate": "2017-10-15",
+      "endDate": "2017-11-15",
+      "courses": "Cambridge C1"
     },
     {
       "image": "",
@@ -247,7 +265,7 @@
   ],
   "interests": [
     {
-      "name": "Digital Native",
+      "name": "Tech Investor",
       "x_icon": "fa-globe-africa"
     },
     {
@@ -257,10 +275,6 @@
     {
       "name": "Haute",
       "x_icon": "fa-utensils"
-    },
-    {
-      "name": "Tech Investor",
-      "x_icon": "fa fa-area-chart"
     },
     {
       "name": "Midfielder",
