@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "puppeteer": "^2.0.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
@@ -13,7 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+	"predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
@@ -27,18 +26,5 @@
   ],
   "devDependencies": {
     "gh-pages": "^2.0.1"
-  },
-  "description": "The Site is build and deployed using netlify.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gluehbirnenkopf/javascript-cv.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gluehbirnenkopf/javascript-cv/issues"
-  },
-  "homepage": "https://github.com/gluehbirnenkopf/javascript-cv#readme"
+  }
 }
