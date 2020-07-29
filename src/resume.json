@@ -124,6 +124,24 @@
     },
     {
       "image": "",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Master",
+      "studyType": "PSM I",
+      "startDate": "2016-06-15",
+      "endDate": "2016-06-31",
+      "courses": "Professional Scrum Master Course"
+    },
+    {
+      "image": "",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Product Owner",
+      "studyType": "PSPO I",
+      "startDate": "2016-03-15",
+      "endDate": "2016-03-31",
+      "courses": "Professional Scrum Product Owner Course"
+    },
+    {
+      "image": "",
       "institution": "Cambridge Language Institute",
       "area": "Highest English Proficiency",
       "studyType": "Cambridge C1",
