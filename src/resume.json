@@ -124,7 +124,7 @@
     },
     {
       "image": "",
-      "institution": "scrum.org1",
+      "institution": "scrum.org",
       "area": "Professional Scrum Product Owner",
       "studyType": "PSPO I",
       "startDate": "2016-06-15",
@@ -139,7 +139,16 @@
       "startDate": "2015-08-15",
       "endDate": "2021-08-31",
       "courses": "Unix, CD/CD, Bash, Cloud Technologies"
-    }
+    },
+    {
+      "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
+      "institution": "VMWare Inc.",
+      "area": "VMware Technical Pre-Sales Professional VSphere 5",
+      "studyType": "EX288",
+      "startDate": "2013-08-15",
+      "endDate": "2013-08-31",
+      "courses": "VMware Technical Pre-Sales Professional VSphere 5"
+    },
   ],
   "skills": [
     {
