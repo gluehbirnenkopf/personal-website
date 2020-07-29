@@ -39,13 +39,13 @@
   "work": [
     {
       "image": "https://www.w3schools.com/images/lamp.jpg",
-      "company": "Accenture",
+      "company": "Accenture Technology Solutions",
       "client" : "Major German Bank",
       "position": "Cloud Migration Architect",
       "website": "https://www.accenture.com",
       "startDate": "2020-04-01",
       "endDate": "2020-12-31",
-      "summary": "Migrating and modernizing 80% of IT infrastructure and applications of the bank, including core-banking systems.",
+      "summary": "Building up Infrastructure as Code Automation with Terraform across GCP/Azure. In parallel responsible for migrating IBM Websphere based workloads into public cloud.",
       "highlights": []
     },
     {
@@ -56,7 +56,7 @@
       "website": "https://www.ibm.de",
       "startDate": "2018-05-15",
       "endDate": "2020-03-31",
-      "summary": "Lead for a central delivery team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). Responsible for the introduction of an open source DevOps toolstack across all product teams",
+      "summary": "Lead (PO and Technical Architect) for a central Infrastructure/DevOps Team across India, Slovakia and Germany (Cloud Development & Operations, Build & Deployment Automation, Development Support). DevOps Coach for all product teams",
       "highlights": []
     },
     {
@@ -67,7 +67,7 @@
       "website": "https://www.accenture.com",
       "startDate": "2016-06-01",
       "endDate": "2018-08-30",
-      "summary": "Functional and technical responsible for onboarding all CI and Services throughout the whole lifecycle (Plan, Design, Build, Test, Operate)",
+      "summary": "Functional and technical responsible for onboarding 150 IT Services to a central Monitoring Solution of the Bank throughout the whole lifecycle (Plan, Design, Build, Test, Operate)",
       "highlights": []
     },
     {
