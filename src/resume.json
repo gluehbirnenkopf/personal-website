@@ -187,7 +187,7 @@
     },
     {
       "image": "https://media.aubi-plus.com/files/premiumprofil/logo/6d2fab9-akad-university.jpg",
-      "institution": "IBM2",
+      "institution": "IBM",
       "area": "Microservices and istio on Kubernetes",
       "studyType": "IBM Cloud",
       "startDate": "2019-04-15",
@@ -196,7 +196,7 @@
     },
     {
       "image": "https://thumbor.forbes.com/thumbor/fit-in/200x200/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F559d6d72e4b05c2c3431c087%2F0x0.jpg%3Ffit%3Dscale%26background%3D000000",
-      "institution": "IBM1",
+      "institution": "IBM",
       "area": "Kubernetes on IBM Cloud Certified",
       "studyType": "IBM Cloud",
       "startDate": "2019-10-16",
