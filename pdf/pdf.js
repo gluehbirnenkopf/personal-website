@@ -10,7 +10,7 @@ const puppeteer = require("puppeteer");
   });
   await page.setViewport({ width: 1680, height: 1050 });
   await page.pdf({
-    path: "cv.pdf",
+    path: "pdf/cv.pdf",
     format: "A4",
     landscape: false,
     printBackground: true,
