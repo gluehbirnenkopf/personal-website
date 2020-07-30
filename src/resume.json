@@ -123,6 +123,15 @@
       "courses": "Professional Scrum Product Owner Course including also Scrum Master"
     },
     {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png",
+      "institution": "IBM",
+      "area": "Kubernetes & Istio on IBM Cloud Certified",
+      "studyType": "IBM Cloud",
+      "startDate": "2019-10-16",
+      "endDate": "2019-11-15",
+      "courses": "IBM Kubernetes Service Technical Deep Dive, Deployments, Configuration, Operators, Istio"
+    },
+    {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO7DCNJ5B53mANzE-hfuWeeHC2K7awLhxf0g&usqp=CAU",
       "institution": "California State University",
       "area": "Highest English Proficiency",
