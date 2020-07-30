@@ -114,7 +114,7 @@
   ],
   "certifications": [
     {
-      "image": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png",
       "institution": "IBM",
       "area": "Kubernetes & Istio on IBM Cloud Certified",
       "studyType": "IBM Cloud",
@@ -123,7 +123,7 @@
       "courses": "IBM Kubernetes Service Technical Deep Dive, Deployments, Configuration, Operators, Istio"
     },
     {
-      "image": "",
+      "image": "https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png",
       "institution": "RedHat Inc.",
       "area": "RedHat Certified specialist for Container Development on Openshift",
       "studyType": "EX288",
@@ -132,7 +132,7 @@
       "courses": "Final exam was to solve 8 individual labs on the commandline under time pressure within 3h of time. Debugging and Troubleshooting of Applications Unix, Docker, S2i CI/CD, TCP/IP"
     },
     {
-      "image": "",
+      "image": "https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png",
       "institution": "scrum.org",
       "area": "Professional Scrum Product Owner & Professional Scrum Master",
       "studyType": "PSPO I and PSM I",
@@ -141,7 +141,7 @@
       "courses": "Professional Scrum Product Owner Course including also Scrum Master"
     },
     {
-      "image": "",
+      "image": "https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png",
       "institution": "California State University",
       "area": "Highest English Proficiency",
       "studyType": "Cambridge C1",
@@ -150,7 +150,7 @@
       "courses": "Cambridge C1 English Exam"
     },
     {
-      "image": "",
+      "image": "https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/timeline/vmware-logo-200x200.png",
       "institution": "VMWare Inc.",
       "area": "VMware Technical Pre-Sales Professional VSphere 5",
       "studyType": "VTP5",
