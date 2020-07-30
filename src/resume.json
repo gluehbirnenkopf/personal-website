@@ -192,7 +192,7 @@
       "keywords": ["Methods"]
     },
     {
-      "name": "Groovy",
+      "name": "Groovy/Java",
       "level": 75,
       "keywords": ["Tools"]
     },
@@ -202,13 +202,13 @@
       "keywords": ["Tools"]
     },
     {
-      "name": "RedHat OpenShift",
+      "name": "RedHat OpenShift & Kubernetes",
       "level": 85,
       "keywords": ["Tools"]
     },
     {
-      "name": "Kubernetes",
-      "level": 90,
+      "name": "Terraform",
+      "level": 80,
       "keywords": ["Tools"]
     },
     {
