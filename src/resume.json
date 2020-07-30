@@ -115,11 +115,11 @@
   "certifications": [
     {
       "image": "https://seeklogo.com/images/R/redhat-logo-259A623E59-seeklogo.com.png",
-      "institution": "RedHat Inc.",
+      "institution": "RedHat",
       "area": "RedHat Certified specialist for Container Development on Openshift",
       "studyType": "EX288",
-      "startDate": "2019-12-01",
-      "endDate": "2020-01-31",
+      "startDate": "2020-01-05",
+      "endDate": "2020-01-30",
       "courses": "Debugging and Troubleshooting of Applications, Unix, Docker, S2i CI/CD, TCP/IP"
     },
     {
