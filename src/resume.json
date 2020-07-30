@@ -114,15 +114,6 @@
   ],
   "certifications": [
     {
-      "image": "https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png",
-      "institution": "scrum.org",
-      "area": "Professional Scrum Product Owner & Professional Scrum Master",
-      "studyType": "PSPO I and PSM I",
-      "startDate": "2016-03-15",
-      "endDate": "2016-03-31",
-      "courses": "Professional Scrum Product Owner Course including also Scrum Master"
-    },
-    {
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png",
       "institution": "IBM",
       "area": "Kubernetes & Istio on IBM Cloud Certified",
@@ -139,6 +130,15 @@
       "startDate": "2017-10-15",
       "endDate": "2017-11-15",
       "courses": "Cambridge C1 English Exam"
+    },
+    {
+      "image": "https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png",
+      "institution": "scrum.org",
+      "area": "Professional Scrum Product Owner & Professional Scrum Master",
+      "studyType": "PSPO I and PSM I",
+      "startDate": "2016-03-15",
+      "endDate": "2016-03-31",
+      "courses": "Professional Scrum Product Owner Course including also Scrum Master"
     },
     {
       "image": "https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/timeline/vmware-logo-200x200.png",
