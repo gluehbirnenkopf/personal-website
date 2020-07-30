@@ -145,27 +145,18 @@
       "institution": "scrum.org",
       "area": "Professional Scrum Product Owner & Professional Scrum Master",
       "studyType": "PSPO I and PSM I",
-      "startDate": "2016-03-15",
+      "startDate": "2015-03-15",
       "endDate": "2016-03-31",
       "courses": "Professional Scrum Product Owner Course including also Scrum Master"
     },
     {
       "image": "",
       "institution": "Serview",
-      "area": "ITIL V3 Foundation 2011",
+      "area": "ITIL V3 Foundation 2011, Prince2",
       "studyType": "ITIL V3",
       "startDate": "2014-11-15",
       "endDate": "2014-11-31",
-      "courses": "Operations Management, Service Management"
-    },
-    {
-      "image": "",
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "2016-05-15",
-      "endDate": "2016-06-08",
-      "courses": ""
+      "courses": "Project Management, Risk Management, Service Management"
     },
     {
       "image": "https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/timeline/vmware-logo-200x200.png",
